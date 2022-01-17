@@ -23,10 +23,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.chiragkushwaha.animatedtodo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A smoothly animated ToDo app built with React Native"
   }
 }
