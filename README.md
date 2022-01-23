@@ -27,4 +27,3 @@ __Step 2:__ Scan the QR code in your expo app
 !["light theme drawer"](doc/dp.jpeg)
 
 !["light theme drawer"](doc/del.jpeg)
-exp://exp.host/@chiragkushwaha/animated-todo
