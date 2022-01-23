@@ -1,6 +1,14 @@
 ## Animated Todo
 A smoothly animated ToDo app built with React Native
 
+## To See live demo , Follow the steps 
+
+__Step 1:__ Download expo app in your mobile from play/app store.
+
+__Step 2:__ Scan the QR code in your expo app 
+
+!["App QR Code"](doc/qr.png) 
+
 ### Themes
 #### Light Mode
 !["light theme todo list"](doc/lt.jpeg)
@@ -20,10 +28,3 @@ A smoothly animated ToDo app built with React Native
 
 !["light theme drawer"](doc/del.jpeg)
 exp://exp.host/@chiragkushwaha/animated-todo
-## To See live demo , Follow the steps 
-
-__Step 1:__ Download expo app in your mobile from play/app store.
-
-__Step 2:__ Scan the QR code in your expo app 
-
-!["App QR Code"](doc/qr.png) 
